@@ -21,3 +21,18 @@ const contacts = [
     email: "gmail@chucknorris.com"
   }
 ];
+export default contacts;
+
+// function Contacts(props){
+//   for(let i= 0; i<contacts.length; i++){
+//     <div>
+//     <h2>{props.contacts[i].name}</h2>
+//     <img src={props.contacts[i].imgURL}/>
+//     <p>{props.contacts[i].phone}</p>
+//     <p>{props.contacts[i].phone}</p>
+//     </div>
+//   }
+//   return(
+    
+//   )
+// }
